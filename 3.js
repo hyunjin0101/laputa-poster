@@ -2,9 +2,9 @@
 const posterLinks = [
     '4.html', 
     '5.html', 
-    '6.html', 
+    'index.html', 
     '1.html', 
-    'index.html'  
+    '2.html'  
   ];
   
   //상단 메뉴
